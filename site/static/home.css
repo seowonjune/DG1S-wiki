@@ -1,0 +1,38 @@
+*{margin: 0px; padding: 0px;}
+ul{list-style: none;}
+a{text-decoration: none;}
+
+header{
+    width: 10000px;
+    height: 100px;
+    background-color: #3399ff;
+    position: relative;
+}
+
+#logo{
+    position: absolute;
+    top: 10px;
+    left: 00px;
+}
+
+#top_menu{
+    position: absolute;
+    top: 5px;
+    left:1700px;
+}
+
+#top_menu a{color: aliceblue;}
+
+nav{
+    position: absolute;
+    top: 35px;
+    left: 320px;
+    font-size: 20px;
+}
+
+nav li{
+    display: inline;
+    margin-left: 35px;
+}
+
+nav li a{color: aliceblue;}
